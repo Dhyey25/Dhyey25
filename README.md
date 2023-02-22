@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhyeysolanki@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uRtC8IZ5dXvZHYkNS8f3HfWt61AWMJCe/view?usp=sharing](https://drive.google.com/file/d/1uRtC8IZ5dXvZHYkNS8f3HfWt61AWMJCe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://bit.ly/dhyey-solanki-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
