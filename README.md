@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhyey Solanki</h1>
-<h3 align="center">A passionate application developer 🇮🇳 | 🇨🇦</h3>
+<h3 align="center">A passionate software developer 🇮🇳 | 🇨🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyey25&label=Profile%20views&color=0e75b6&style=flat" alt="dhyey25" /> </p>
 
-- 🔭 I’m currently working on **WeTalkie**
-
-- 🌱 I’m currently learning **React Native, JavaScript**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **dhyeysolanki@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/dhyey-solanki-resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G0zWppKUNqiFiQD1WMEujoBuL7mUTrhY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
