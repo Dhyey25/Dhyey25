@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyey25&label=Profile%20views&color=0e75b6&style=flat" alt="dhyey25" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m a **DevOps** enthusiast
 
 - 💬 Ask me about **Software Development**
 
