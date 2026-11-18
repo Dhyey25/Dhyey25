@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhyeysolanki@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G0zWppKUNqiFiQD1WMEujoBuL7mUTrhY/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G0zWppKUNqiFiQD1WMEujoBuL7mUTrhY/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
